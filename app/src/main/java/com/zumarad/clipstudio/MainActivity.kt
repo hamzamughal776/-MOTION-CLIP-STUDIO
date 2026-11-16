@@ -1,5 +1,7 @@
 package com.zumarad.clipstudio
 
+import androidx.activity.result.PickVisualMediaRequest
+
 import android.net.Uri
 import android.os.Bundle
 import androidx.activity.ComponentActivity
